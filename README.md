@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://tsimeonov.github.io/Architect-Landing-Page/
+- Live Site URL: https://tsimeonov.github.io/smooth-scroll-landing-page/
 
 ### Built with
 
