@@ -9,11 +9,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./preview.png)
+![](preview.png)
 
 ### Links
 
-- Live Site URL: https://tsimeonov.github.io/Architect-Landing-Page/
+- Live Site URL: https://tsimeonov.github.io/smooth-scroll-landing-page/
 
 ### Built with
 
